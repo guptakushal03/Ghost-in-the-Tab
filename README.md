@@ -1,16 +1,16 @@
-# 👻 Ghost in the Tab
+# Ghost in the Tab
 
 **Ghost in the Tab** is a spooky browser extension that playfully haunts your web experience. With creepy visual glitches, unexpected sounds, and ghostly behavior, it's perfect for Halloween, pranks, or anyone who loves a good scare.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 The goal of this extension is to subtly mess with users by introducing harmless but eerie effects to web pages they visit. Think of it as a ghost in the machine — only it's in your browser tab.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Text Glitches**: Randomly glitch or distort visible text on the page.
 - **Ghostly Sounds**: Random whispers, screams, or static to keep users on edge.
@@ -21,7 +21,7 @@ The goal of this extension is to subtly mess with users by introducing harmless 
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. Clone or download this repository:
     ```bash
@@ -34,7 +34,7 @@ The goal of this extension is to subtly mess with users by introducing harmless 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ghost-in-the-tab/

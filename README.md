@@ -71,4 +71,4 @@ Feel free to open an issue or pull request. Suggestions for new ghost effects ar
 
 ---
 
-**Have fun... and don’t forget to look behind you! **
+Have fun... and don’t forget to look behind you!
